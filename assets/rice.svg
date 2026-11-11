@@ -128,7 +128,7 @@
 <rect x="332.0" y="448" width="11" height="11" fill="#e8e8e8"/>
 <rect x="343.0" y="448" width="11" height="11" fill="#e8e8e8"/>
 <rect x="93.0" y="520" width="236" height="30" fill="none" stroke="#e8e8e8" stroke-width="1.4"/>
-<text x="211.0" y="540" fill="#e8e8e8" font-size="12" text-anchor="middle" font-weight="normal">2026-11 [learning: AWS/TF/K8s]</text>
+<text x="211.0" y="540" fill="#e8e8e8" font-size="12" text-anchor="middle" font-weight="normal">2026-11 [learning: AWS · Go]</text>
 <text x="20" y="596" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">sviat ~ &gt; </text>
 <rect x="98.5" y="584" width="8" height="15" fill="#e8e8e8" class="blink"/>
 <text x="516.0" y="52" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">linux</text>
@@ -166,10 +166,10 @@
 <text x="817.0" y="92" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="bold">|||||||</text>
 <text x="982.0" y="92" fill="#5e5e5e" font-size="13" text-anchor="end" font-weight="normal">uni</text>
 <text x="990.0" y="92" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">]</text>
-<text x="801.0" y="112" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">aws/tf/k8s</text>
+<text x="801.0" y="112" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">k8s/tf</text>
 <text x="807.0" y="112" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">[</text>
-<text x="817.0" y="112" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="bold">||</text>
-<text x="982.0" y="112" fill="#5e5e5e" font-size="13" text-anchor="end" font-weight="normal">learn</text>
+<text x="817.0" y="112" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="bold">|||||</text>
+<text x="982.0" y="112" fill="#5e5e5e" font-size="13" text-anchor="end" font-weight="normal">local</text>
 <text x="990.0" y="112" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">]</text>
 <text x="434" y="140" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">Mem[</text>
 <text x="470" y="140" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="bold">|||||||||||||||||</text>
@@ -195,82 +195,82 @@
 <rect x="424" y="243" width="570" height="20" fill="#e8e8e8"/>
 <text x="464" y="258" fill="#000" font-size="13" text-anchor="end" font-weight="normal">1</text>
 <text x="476" y="258" fill="#000" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="258" fill="#000" font-size="13" text-anchor="start" font-weight="normal">Shell/C</text>
+<text x="584" y="258" fill="#000" font-size="13" text-anchor="start" font-weight="normal">Ansible</text>
 <text x="672" y="258" fill="#000" font-size="13" text-anchor="start" font-weight="normal">R</text>
-<text x="742" y="258" fill="#000" font-size="13" text-anchor="end" font-weight="normal">Oct 26</text>
-<text x="754" y="258" fill="#000" font-size="13" text-anchor="start" font-weight="normal">custom-lfs  # LFS 12.2, boots</text>
-<text x="464" y="283" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">42</text>
+<text x="742" y="258" fill="#000" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
+<text x="754" y="258" fill="#000" font-size="13" text-anchor="start" font-weight="normal">ansible-infra  # 5 VMs, IaC</text>
+<text x="464" y="283" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">2</text>
 <text x="476" y="283" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="283" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Py/SQL</text>
+<text x="584" y="283" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">TF/Helm</text>
 <text x="672" y="283" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">R</text>
 <text x="742" y="283" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
-<text x="754" y="283" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">postgresql-library-db</text>
-<text x="464" y="308" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">101</text>
+<text x="754" y="283" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">gitops-platform  # Argo CD</text>
+<text x="464" y="308" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">3</text>
 <text x="476" y="308" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="308" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Python</text>
-<text x="672" y="308" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
-<text x="742" y="308" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Jul 26</text>
-<text x="754" y="308" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">urange  # FastAPI @ Heroku</text>
-<text x="464" y="333" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">202</text>
+<text x="584" y="308" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Py/Net</text>
+<text x="672" y="308" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">R</text>
+<text x="742" y="308" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
+<text x="754" y="308" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">netlab  # IPAM, OSPF, NAT</text>
+<text x="464" y="333" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">4</text>
 <text x="476" y="333" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="333" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C#/Fbase</text>
-<text x="672" y="333" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
-<text x="742" y="333" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">May 26</text>
-<text x="754" y="333" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">ecodino  # Firebase, Unity</text>
-<text x="464" y="358" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">303</text>
+<text x="584" y="333" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Python</text>
+<text x="672" y="333" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">R</text>
+<text x="742" y="333" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
+<text x="754" y="333" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">infra-discovery  # SSH-&gt;CMDB</text>
+<text x="464" y="358" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">5</text>
 <text x="476" y="358" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="358" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++/Qt6</text>
-<text x="672" y="358" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
+<text x="584" y="358" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Py/SQL</text>
+<text x="672" y="358" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">R</text>
 <text x="742" y="358" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
-<text x="754" y="358" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">qt-fourier-series-visualizer</text>
-<text x="464" y="383" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">304</text>
+<text x="754" y="358" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">rest-api-transport-firm</text>
+<text x="464" y="383" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">6</text>
 <text x="476" y="383" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="383" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++/Qt6</text>
+<text x="584" y="383" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Shell/C</text>
 <text x="672" y="383" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
-<text x="742" y="383" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
-<text x="754" y="383" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">qt-function-grapher</text>
-<text x="464" y="408" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">305</text>
+<text x="742" y="383" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Oct 26</text>
+<text x="754" y="383" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">custom-lfs  # LFS 12.2, boots</text>
+<text x="464" y="408" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">42</text>
 <text x="476" y="408" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="408" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++/Qt6</text>
+<text x="584" y="408" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Py/SQL</text>
 <text x="672" y="408" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
 <text x="742" y="408" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
-<text x="754" y="408" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">qt-nonlinear-equation-solver</text>
-<text x="464" y="433" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">306</text>
+<text x="754" y="408" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">postgresql-library-db</text>
+<text x="464" y="433" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">80</text>
 <text x="476" y="433" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="433" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++</text>
+<text x="584" y="433" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Node.js</text>
 <text x="672" y="433" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
 <text x="742" y="433" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
-<text x="754" y="433" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">data-structures-algorithms-cpp</text>
-<text x="464" y="458" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">404</text>
+<text x="754" y="433" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">http-cat-caching-proxy</text>
+<text x="464" y="458" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">101</text>
 <text x="476" y="458" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
 <text x="584" y="458" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Python</text>
 <text x="672" y="458" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
-<text x="742" y="458" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">2022-</text>
-<text x="754" y="458" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">telegram-discord-bots  # 24/7</text>
-<text x="464" y="483" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">500</text>
+<text x="742" y="458" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Jul 26</text>
+<text x="754" y="458" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">urange  # FastAPI @ Heroku</text>
+<text x="464" y="483" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">202</text>
 <text x="476" y="483" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="483" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">JS</text>
+<text x="584" y="483" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C#/Fbase</text>
 <text x="672" y="483" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
-<text x="742" y="483" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
-<text x="754" y="483" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">web-labs</text>
-<text x="464" y="508" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">501</text>
+<text x="742" y="483" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">May 26</text>
+<text x="754" y="483" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">ecodino  # Firebase, Unity</text>
+<text x="464" y="508" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">303</text>
 <text x="476" y="508" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
-<text x="584" y="508" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++</text>
+<text x="584" y="508" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++/Qt6</text>
 <text x="672" y="508" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
-<text x="742" y="508" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Sep 26</text>
-<text x="754" y="508" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">OOP-projects</text>
-<text x="464" y="533" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">666</text>
-<text x="476" y="533" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">root</text>
-<text x="584" y="533" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">HCL</text>
-<text x="672" y="533" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">D</text>
-<text x="742" y="533" fill="#5e5e5e" font-size="13" text-anchor="end" font-weight="normal">--:--</text>
-<text x="754" y="533" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">terraform  # coming soon</text>
-<text x="464" y="558" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">667</text>
-<text x="476" y="558" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">root</text>
-<text x="584" y="558" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">YAML</text>
-<text x="672" y="558" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">D</text>
-<text x="742" y="558" fill="#5e5e5e" font-size="13" text-anchor="end" font-weight="normal">--:--</text>
-<text x="754" y="558" fill="#5e5e5e" font-size="13" text-anchor="start" font-weight="normal">kubernetes  # coming soon</text>
+<text x="742" y="508" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
+<text x="754" y="508" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">qt-* (3 apps)  # numerics</text>
+<text x="464" y="533" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">306</text>
+<text x="476" y="533" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
+<text x="584" y="533" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">C++</text>
+<text x="672" y="533" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
+<text x="742" y="533" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">Nov 26</text>
+<text x="754" y="533" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">data-structures-algorithms-cpp</text>
+<text x="464" y="558" fill="#e8e8e8" font-size="13" text-anchor="end" font-weight="normal">404</text>
+<text x="476" y="558" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">sviat</text>
+<text x="584" y="558" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">Python</text>
+<text x="672" y="558" fill="#a0a0a0" font-size="13" text-anchor="start" font-weight="normal">S</text>
+<text x="742" y="558" fill="#a0a0a0" font-size="13" text-anchor="end" font-weight="normal">2022-</text>
+<text x="754" y="558" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">telegram-discord-bots  # 24/7</text>
 <text x="426" y="634" fill="#e8e8e8" font-size="13" text-anchor="start" font-weight="normal">F1</text>
 <rect x="450" y="620" width="65.0" height="18" fill="#cfcfcf"/>
 <text x="454" y="634" fill="#000" font-size="13" text-anchor="start" font-weight="normal">Help</text>
